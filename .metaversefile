@@ -1,6 +1,6 @@
 {
   "name": "hovercraft",
-  "start_url": "hovercraft.glb",
+  "start_url": "machinegunlamboWBV.glb",
   "components": [
     {
       "key": "sit",
