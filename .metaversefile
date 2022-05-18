@@ -6,7 +6,7 @@
       "key": "sit",
       "value": {
         "subtype": "saddle",
-        "sitOffset": [0, 0.3, -0.25],
+        "sitOffset": [-0.25, 0.3, 0],
         "walkAnimation": ["FrontTireRot", "BackTireRot"],
         "walkAnimationHoldTime": 1,
         "walkAnimationSpeedFactor": 0.1,
