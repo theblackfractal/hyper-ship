@@ -6,6 +6,7 @@
       "key": "sit",
       "value": {
         "subtype": "saddle",
+        "mountType": "flying",
         "sitOffset": [0, -0.15, 0],
         "walkAnimation": ["FrontTireRot", "BackTireRot"],
         "walkAnimationHoldTime": 1,
