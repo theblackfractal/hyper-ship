@@ -1,13 +1,13 @@
 {
-  "name": "nightsandbike",
-  "start_url": "nightsand-bike.glb",
+  "name": "hypership",
+  "start_url": "hypership-wbv.glb",
   "components": [
     {
       "key": "sit",
       "value": {
         "subtype": "saddle",
         "sitOffset": [0, -0.15, 0],
-        "walkAnimation": ["FrontTireRot", "BackTireRot"],
+        "walkAnimation": "",
         "walkAnimationHoldTime": 1,
         "walkAnimationSpeedFactor": 0.1,
         "speed": 0.1,
